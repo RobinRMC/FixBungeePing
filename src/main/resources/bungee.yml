@@ -1,0 +1,4 @@
+name: FixBungeePing
+version: '${version}'
+main: org.popcraft.fixbungeeping.FixBungeePing
+description: Fixes Bungee pings
